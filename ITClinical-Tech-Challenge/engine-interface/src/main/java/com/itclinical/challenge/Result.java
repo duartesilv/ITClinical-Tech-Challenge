@@ -1,2 +1,9 @@
-package com.itclinical.challenge;public class Result {
+package com.itclinical.challenge;
+
+/**
+ *  Every result class should extend this Class
+ */
+
+public class Result {
+
 }

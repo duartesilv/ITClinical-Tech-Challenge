@@ -1,15 +1,15 @@
 package com.itclinical.challenge;
 
-import com.itclinical.challenge.nth.RetrieveNthCharacterParams;
-import com.itclinical.challenge.nth.RetrieveNthCharacterResult;
+import com.itclinical.challenge.nthcharacter.params.RetrieveNthCharacterParams;
+import com.itclinical.challenge.nthcharacter.result.RetrieveNthCharacterResult;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class AppTDDTest {
+public class TestTDDApp {
 
 
-    public NthCharacterEngineImpl nthCharacterEngine;
+    public NthCharacterEngine nthCharacterEngine;
 
     @Before
     public void setup() {

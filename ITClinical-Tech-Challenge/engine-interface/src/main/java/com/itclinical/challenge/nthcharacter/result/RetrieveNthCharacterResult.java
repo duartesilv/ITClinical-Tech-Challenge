@@ -1,4 +1,4 @@
-package com.itclinical.challenge.nth;
+package com.itclinical.challenge.nthcharacter.result;
 
 import com.itclinical.challenge.Result;
 

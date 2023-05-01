@@ -1,0 +1,6 @@
+com\itclinical\challenge\Operation.class
+com\itclinical\challenge\Result.class
+com\itclinical\challenge\Params.class
+com\itclinical\challenge\nthcharacter\params\RetrieveNthCharacterParams.class
+com\itclinical\challenge\nthcharacter\result\RetrieveNthCharacterResult.class
+com\itclinical\challenge\NthCharacterEngine.class

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04b4208e-4e87-4c36-ba9e-84b7c0a008d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-test/src/main/java/com/itclinical/challenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-test/src/test/java/com/itclinical/challenge/TestTDDApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface-impl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface-impl/src/main/java/com/itclinical/challenge/EngineTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface-impl/src/main/java/com/itclinical/challenge/NthCharacterEngineImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface-impl/src/main/java/com/itclinical/challenge/operation/GenericOperationTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface-impl/src/main/java/com/itclinical/challenge/operation/RetrieveNthCharacterOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface/src/main/java/com/itclinical/challenge/NthCharacterEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface/src/main/java/com/itclinical/challenge/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface/src/main/java/com/itclinical/challenge/Params.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface/src/main/java/com/itclinical/challenge/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface/src/main/java/com/itclinical/challenge/nthcharacter/params/RetrieveNthCharacterParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine-interface/src/main/java/com/itclinical/challenge/nthcharacter/result/RetrieveNthCharacterResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PBmDpzrmvO1Zsis34QcBwZvd6w" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_directory_selection": "C:/Git/ITClinical-Tech-Challenge/ITClinical-Tech-Challenge/app-test/src/test/java",
+    "last_opened_file_path": "C:/Git/ITClinical-Tech-Challenge/ITClinical-Tech-Challenge",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestTDDApp.tddTestNthUpperCharacter">
+    <configuration name="TestTDDApp.shouldNotPrintFizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itclinical.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itclinical.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.itclinical.challenge.TestTDDApp" />
+      <option name="METHOD_NAME" value="shouldNotPrintFizzBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTDDApp.shouldPrintCountNumberOfCharacter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itclinical.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itclinical.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.itclinical.challenge.TestTDDApp" />
+      <option name="METHOD_NAME" value="shouldPrintCountNumberOfCharacter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTDDApp.shouldPrintFizzBuzzUntil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itclinical.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itclinical.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.itclinical.challenge.TestTDDApp" />
+      <option name="METHOD_NAME" value="shouldPrintFizzBuzzUntil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTDDApp.shouldRetrieveWhenInputHasSpecialCharacterOrDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itclinical.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itclinical.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.itclinical.challenge.TestTDDApp" />
+      <option name="METHOD_NAME" value="shouldRetrieveWhenInputHasSpecialCharacterOrDigits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTDDApp.tddTestNthUpperCharacter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itclinical.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itclinical.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.itclinical.challenge.TestTDDApp" />
+      <option name="METHOD_NAME" value="tddTestNthUpperCharacter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build app" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestTDDApp.shouldNotPrintFizzBuzz" />
+      <item itemvalue="JUnit.TestTDDApp.shouldPrintCountNumberOfCharacter" />
+      <item itemvalue="JUnit.TestTDDApp.shouldPrintFizzBuzzUntil" />
+      <item itemvalue="JUnit.TestTDDApp.shouldRetrieveWhenInputHasSpecialCharacterOrDigits" />
+      <item itemvalue="JUnit.TestTDDApp.tddTestNthUpperCharacter" />
+      <item itemvalue="Maven.Build app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestTDDApp.tddTestNthUpperCharacter" />
+        <item itemvalue="JUnit.TestTDDApp.shouldPrintFizzBuzzUntil" />
+        <item itemvalue="JUnit.TestTDDApp.shouldNotPrintFizzBuzz" />
+        <item itemvalue="JUnit.TestTDDApp.shouldPrintCountNumberOfCharacter" />
+        <item itemvalue="JUnit.TestTDDApp.shouldRetrieveWhenInputHasSpecialCharacterOrDigits" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04b4208e-4e87-4c36-ba9e-84b7c0a008d6" name="Changes" comment="" />
+      <created>1682938732568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682938732568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app-test/src/test/java/com/itclinical/challenge/TestTDDApp.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app-test/src/test/java/com/itclinical/challenge/TestTDDApp.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app-test/src/test/java/com/itclinical/challenge/TestTDDApp.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.itclinical.challenge.nth.RetrieveNthCharacterResult" memberName="countNumberOfCharacter" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\itclinical\challenge\EngineTemplate.class
+com\itclinical\challenge\operation\RetrieveNthCharacterOperation.class
+com\itclinical\challenge\NthCharacterEngineImpl.class
+com\itclinical\challenge\operation\GenericOperationTemplate.class
